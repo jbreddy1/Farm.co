@@ -3,7 +3,7 @@ import axios from 'axios';
 import './App.css';
 
 // API base URL
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = 'https://farm-co.onrender.com';
 
 // Modern SVG icons for sidebar
 const sidebarIcons = {
